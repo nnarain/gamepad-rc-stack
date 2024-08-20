@@ -1,0 +1,3 @@
+[submodule "hardware/gamepad-rc-stack/libraries/espressif"]
+	path = hardware/gamepad-rc-stack/libraries/espressif
+	url = https://github.com/espressif/kicad-libraries.git
